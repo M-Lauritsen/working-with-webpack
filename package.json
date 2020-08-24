@@ -1,0 +1,16 @@
+{
+  "name": "tooling-01-starting-project",
+  "version": "1.0.0",
+  "description": "Javascript - The complete guide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.7.0",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
